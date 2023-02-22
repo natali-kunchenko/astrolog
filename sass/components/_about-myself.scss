@@ -1,0 +1,31 @@
+.about_myself {
+    display: flex;
+    gap: 45px;
+
+    /* &__text-box {
+        
+    } */
+    &__title {
+        padding-bottom: 30px ;
+        font-family: $font-title;
+        font-size: 32px;
+    }
+    &--color {
+        color: $color-purpule;
+    }
+    &__paragraph {
+        max-width: 590px ;
+        font-family: $font-text;
+        font-size: 17px;
+        padding-bottom: 15px;
+    }
+
+    &__img-box {
+        border-radius: 50% ;
+    }
+}
+.img-juliia {
+    width: 300px ;
+    box-shadow: 2px 2px 60px 5px #00000040;
+    border-radius: 50%;
+}
