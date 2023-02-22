@@ -11,7 +11,7 @@ $color-gray: #AFB1B8; */
 body {
   margin: 0 auto;
   background-color: #080808;
-  background-image: url(../../images/bg-img--desktop.jpg);
+  background-image: url(././images/bg-img--desktop.jpg);
 }
 
 li {
